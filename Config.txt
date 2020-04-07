@@ -1,1 +1,2 @@
 This is the config file to initialize master
+This is done
